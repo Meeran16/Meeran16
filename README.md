@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Meeran Mydeen Syed Ibrahim
 
-<!--
-**Meeran16/Meeran16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Web & Data Science student at the University of Koblenz with experience in data analytics, structured data workflows, SQL reporting, and applied machine learning.
 
-Here are some ideas to get you started:
+I work primarily with Python and SQL, with additional experience in data processing, visualization, business intelligence, computer vision, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Technologies
+
+**Programming & Data**
+- Python
+- SQL
+- Pandas
+- NumPy
+
+**Analytics & Visualization**
+- Power BI
+- Excel
+- Data Analysis
+- KPI Reporting
+
+**Machine Learning & Computer Vision**
+- PyTorch
+- OpenCV
+- YOLO
+- Hugging Face Transformers
+
+**Tools**
+- Git
+- Linux
+- Jupyter Notebook
+
+## Featured Projects
+
+### Table Recognition in Document Images
+Master's thesis project evaluating table-structure recognition approaches on historical document images using YOLOv8, YOLOv10, Nemotron/YOLOX, and Table Transformer.
+
+[View repository](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
+
+### Smart Parking with Automatic Number Plate Recognition
+Bachelor final-year group project using OpenCV and OCR for vehicle number-plate recognition and a smart-parking prototype.
+
+[View repository](https://github.com/Meeran16/bachelor-thesis-smart-parking)
+
+## Current Focus
+
+- Python and SQL for data analysis
+- Data processing and structured data workflows
+- Machine learning and computer vision
+- Building reproducible portfolio projects
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/meeran-mydeen)
