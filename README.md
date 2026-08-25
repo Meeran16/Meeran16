@@ -2,12 +2,11 @@
 
 # Meeran Mydeen Syed Ibrahim
 
-### M.Sc. Web & Data Science · University of Koblenz
+**M.Sc. Web & Data Science · University of Koblenz**
 
-**Python · SQL · Data Analytics · Machine Learning**
+Python · SQL · Data Analytics · Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meeran%20Mydeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meeran-mydeen)
-[![Master Thesis](https://img.shields.io/badge/Master%20Thesis-Table%20Recognition-181717?style=for-the-badge&logo=github)](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
+[LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [Master's Thesis](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
 
 </div>
 
@@ -15,72 +14,75 @@
 
 ## About
 
-I am an M.Sc. Web & Data Science student at the University of Koblenz with experience in data analytics, structured data workflows, SQL reporting, and applied machine learning.
+M.Sc. Web & Data Science student at the University of Koblenz with experience in data analytics, structured data workflows, SQL reporting, and applied machine learning.
 
-My work focuses primarily on **Python and SQL**, supported by experience in data processing, visualization, business intelligence, machine learning, and computer vision.
-
----
-
-## Core Technologies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+My work combines **Python and SQL** with data processing, analytical workflows, business intelligence, machine learning, and computer vision.
 
 ---
 
-## Featured Work
+## Technical Profile
+
+| Data & Programming | Analytics & BI | Machine Learning | Tools   |
+| ------------------ | -------------- | ---------------- | ------- |
+| Python             | Power BI       | PyTorch          | Git     |
+| SQL                | Excel          | OpenCV           | Linux   |
+| Pandas             | Data Analysis  | YOLO             | Jupyter |
+| NumPy              | KPI Reporting  | Transformers     | VS Code |
+
+---
+
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Table Recognition in Document Images
+### Master's Thesis
 
-**Master's Thesis · University of Koblenz**
+#### Table Recognition in Document Images
 
-Evaluation and adaptation of computer-vision architectures for table structure recognition in historical document images.
+Research project evaluating table-structure recognition approaches for historical document images.
 
-**Technologies:**  
-Python · PyTorch · YOLOv8 · YOLOv10 · YOLOX/Nemotron · Table Transformer · OpenCV
+**Focus**
 
-**Highlights**
-- Model fine-tuning and evaluation
-- Dataset and annotation pipelines
-- Quantitative and qualitative analysis
-- Reproducible experiment artifacts
+* Dataset preparation and annotation workflows
+* Model fine-tuning and evaluation
+* Quantitative and qualitative analysis
+* Reproducible experiment organization
 
-[**View Project →**](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
+**Models**
+
+YOLOv8 · YOLOv10 · YOLOX/Nemotron · Table Transformer
+
+**Stack**
+
+Python · PyTorch · OpenCV · Hugging Face Transformers
+
+[View repository →](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
 
 </td>
+
 <td width="50%" valign="top">
 
-### Smart Parking with ANPR
+### Bachelor Final-Year Project
 
-**Bachelor Final-Year Group Project**
+#### Smart Parking with ANPR
 
-Smart-parking prototype using computer vision and optical character recognition to detect and process vehicle registration plates.
+Group project implementing a smart-parking prototype based on automatic vehicle number-plate recognition.
 
-**Technologies:**  
-Python · OpenCV · Pytesseract · OCR · Raspberry Pi
+**Focus**
 
-**Highlights**
-- Image preprocessing
-- Number-plate localization
-- OCR-based recognition
-- Parking booking prototype
+* Image preprocessing
+* Number-plate localization
+* OCR-based text extraction
+* Vehicle registration verification
+* Parking-interface prototype
 
-[**View Project →**](https://github.com/Meeran16/bachelor-thesis-smart-parking)
+**Stack**
+
+Python · OpenCV · Pytesseract · Raspberry Pi
+
+[View repository →](https://github.com/Meeran16/bachelor-thesis-smart-parking)
 
 </td>
 </tr>
@@ -88,27 +90,31 @@ Python · OpenCV · Pytesseract · OCR · Raspberry Pi
 
 ---
 
-## Areas of Work
+## Core Areas
 
-`Data Analytics` · `SQL` · `Python` · `Data Processing` · `Business Intelligence` · `Machine Learning` · `Computer Vision`
+**Data Analytics**
+SQL analysis · Data cleaning · Data transformation · KPI reporting · Visualization
+
+**Data Workflows**
+Structured datasets · ETL concepts · Validation · Data quality · Reproducible processing
+
+**Applied Machine Learning**
+Model evaluation · Computer vision · Object detection · Document analysis
 
 ---
 
-## Building Next
+## Portfolio Development
 
-Currently expanding this portfolio with practical projects in:
+The next additions to this portfolio will focus on practical data-oriented projects covering:
 
-- SQL and Python analytics
-- Data pipelines and ETL
-- Data modelling and business intelligence
-- Dashboard development
+`SQL & Python Analytics` · `ETL & Data Pipelines` · `Data Modelling` · `Business Intelligence`
 
 ---
 
 <div align="center">
 
-### Connect
+**Meeran Mydeen Syed Ibrahim**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meeran-mydeen)
+[LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [GitHub](https://github.com/Meeran16)
 
 </div>
