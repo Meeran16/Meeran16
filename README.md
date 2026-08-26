@@ -20,14 +20,54 @@ My work combines **Python and SQL** with data processing, analytical workflows, 
 
 ---
 
+## Professional Experience
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Working Student · Data Analyst
+
+**Karlsruhe Institute of Technology (KIT)**  
+Jun 2025 – Jan 2026
+
+Worked with structured research datasets, supporting data collection, transformation, validation, documentation, and data-quality workflows.
+
+**Focus**
+
+Data Processing · Data Validation · ETL Workflows · Data Quality · FAIR Data Principles
+
+</td>
+
+<td width="50%" valign="top">
+
+### System Engineer
+
+**Tata Consultancy Services (TCS)**  
+Jun 2021 – Mar 2023
+
+Worked with operational datasets, SQL-based analysis, Power BI reporting, and data-migration activities across enterprise environments.
+
+**Focus**
+
+SQL · Power BI · Data Analysis · Reporting · Data Migration
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## Technical Profile
 
-| Data & Programming | Analytics & BI | Machine Learning | Tools   |
-| ------------------ | -------------- | ---------------- | ------- |
-| Python             | Power BI       | PyTorch          | Git     |
-| SQL                | Excel          | OpenCV           | Linux   |
-| Pandas             | Data Analysis  | YOLO             | Jupyter |
-| NumPy              | KPI Reporting  | Transformers     | VS Code |
+| Data & Programming | Analytics & BI | Machine Learning | Tools |
+| ------------------ | -------------- | ---------------- | ----- |
+| Python | Power BI | PyTorch | Git |
+| SQL | Excel | OpenCV | Linux |
+| Pandas | Data Analysis | YOLO | Jupyter |
+| NumPy | KPI Reporting | Transformers | VS Code |
 
 ---
 
@@ -35,6 +75,7 @@ My work combines **Python and SQL** with data processing, analytical workflows, 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Master's Thesis
@@ -85,6 +126,7 @@ Python · OpenCV · Pytesseract · Raspberry Pi
 [View repository →](https://github.com/Meeran16/bachelor-thesis-smart-parking)
 
 </td>
+
 </tr>
 </table>
 
@@ -92,14 +134,14 @@ Python · OpenCV · Pytesseract · Raspberry Pi
 
 ## Core Areas
 
-**Data Analytics**
-SQL analysis · Data cleaning · Data transformation · KPI reporting · Visualization
+**Data Analytics**  
+SQL Analysis · Data Cleaning · Data Transformation · KPI Reporting · Visualization
 
-**Data Workflows**
-Structured datasets · ETL concepts · Validation · Data quality · Reproducible processing
+**Data Workflows**  
+Structured Datasets · ETL Concepts · Validation · Data Quality · Reproducible Processing
 
-**Applied Machine Learning**
-Model evaluation · Computer vision · Object detection · Document analysis
+**Applied Machine Learning**  
+Model Evaluation · Computer Vision · Object Detection · Document Analysis
 
 ---
 
