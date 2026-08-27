@@ -188,7 +188,7 @@ YOLOv8 · YOLOv10 · YOLOX/Nemotron · Table Transformer
 
 Python · PyTorch · OpenCV · Hugging Face Transformers
 
-[View repository →](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
+**Repository currently private during thesis submission.**
 
 </td>
 
