@@ -6,7 +6,7 @@
 
 Python · SQL · Data Analytics · Machine Learning
 
-[LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [Master's Thesis](https://github.com/Meeran16/master-thesis-table-recognition-in-document-images)
+[LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [GitHub](https://github.com/Meeran16)
 
 </div>
 
@@ -14,41 +14,9 @@ Python · SQL · Data Analytics · Machine Learning
 
 ## About
 
-M.Sc. Web & Data Science student at the University of Koblenz with experience in data analytics, structured data workflows, SQL reporting, and applied machine learning.
+M.Sc. Web & Data Science student at the University of Koblenz with professional and academic experience in data analytics, structured data processing, SQL reporting, data-quality workflows, and applied machine learning.
 
-My work combines **Python and SQL** with data processing, analytical workflows, business intelligence, machine learning, and computer vision.
-
----
-
-## Education
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### M.Sc. Web & Data Science
-
-**University of Koblenz · Germany**  
-2023 – Present
-
-Graduate studies focused on data science, analytics, machine learning, and web/data technologies.
-
-</td>
-
-<td width="50%" valign="top">
-
-### B.E. Computer Science & Engineering
-
-**Kumaraguru College of Technology · India**  
-2017 – 2021
-
-Undergraduate foundation in computer science, programming, software systems, databases, and applied computing.
-
-</td>
-
-</tr>
-</table>
+My work focuses mainly on **Python and SQL**, with projects covering analytical pipelines, relational data modelling, visualization, document processing, machine learning, and computer vision.
 
 ---
 
@@ -94,18 +62,73 @@ SQL · Power BI · Data Analysis · Reporting · Data Migration
 
 ## Technical Profile
 
-| Data & Programming | Analytics & BI | Machine Learning | Tools |
-| ------------------ | -------------- | ---------------- | ----- |
+| Data & Programming | Analytics & Visualization | Machine Learning | Tools & Platforms |
+| ------------------ | ------------------------- | ---------------- | ----------------- |
 | Python | Power BI | PyTorch | Git |
-| SQL | Excel | OpenCV | Linux |
-| Pandas | Data Analysis | YOLO | Jupyter |
-| NumPy | KPI Reporting | Transformers | VS Code |
+| SQL | Plotly | OpenCV | Linux |
+| Pandas | Streamlit | YOLO | Jupyter |
+| NumPy | Matplotlib | Transformers | VS Code |
+| SQLite | Excel | Model Evaluation | GitHub |
 
 ---
 
-## Selected Work
+## Selected Projects
 
 <table>
+<tr>
+
+<td width="50%" valign="top">
+
+### UEFA Champions League Analytics
+
+End-to-end football analytics project covering match, team, and player analysis for the 2025/26 UEFA Champions League.
+
+**Focus**
+
+* Structured match-data processing
+* SQLite relational data modelling
+* SQL analytical queries
+* Pandas-based analysis
+* Team and player performance analysis
+* Data validation and reproducibility
+
+**Stack**
+
+Python · SQL · SQLite · Pandas · Matplotlib
+
+[Analytics Repository →](https://github.com/Meeran16/champions-league-2025-26-analytics)
+
+[Interactive Dashboard →](https://github.com/Meeran16/champions-league-2025-26-dashboard)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Legal Document Processing & Quality Analytics
+
+Lightweight data-processing pipeline for analysing text quality in regulatory PDF documents.
+
+The project reconstructs and extends work from a Master's Research Lab project while keeping the portfolio implementation reproducible and lightweight.
+
+**Focus**
+
+* PDF text extraction
+* Page-level quality metrics
+* Data validation
+* SQLite storage
+* SQL analysis
+* Automated quality reporting
+
+**Stack**
+
+Python · SQL · SQLite · Pandas · PyMuPDF · Matplotlib
+
+[View repository →](https://github.com/Meeran16/legal-document-processing-analytics)
+
+</td>
+
+</tr>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -114,14 +137,16 @@ SQL · Power BI · Data Analysis · Reporting · Data Migration
 
 #### Table Recognition in Document Images
 
-Research project evaluating table-structure recognition approaches for historical document images.
+Research project evaluating table-detection and table-structure-recognition approaches for historical regulatory document images.
 
 **Focus**
 
-* Dataset preparation and annotation workflows
-* Model fine-tuning and evaluation
-* Quantitative and qualitative analysis
-* Reproducible experiment organization
+* Dataset preparation and annotation
+* Model-specific data pipelines
+* Fine-tuning and evaluation
+* Quantitative metric analysis
+* Qualitative error analysis
+* Reproducible experimental workflows
 
 **Models**
 
@@ -137,25 +162,76 @@ Python · PyTorch · OpenCV · Hugging Face Transformers
 
 <td width="50%" valign="top">
 
-### Bachelor Final-Year Project
+### Automated ICD Coding Research
 
-#### Smart Parking with ANPR
+Research seminar examining automated ICD coding from clinical text using transformer-based NLP approaches.
 
-Group project implementing a smart-parking prototype based on automatic vehicle number-plate recognition.
+The project focuses on analysing published methods and reported experimental evidence rather than presenting a personal model implementation.
 
 **Focus**
 
-* Image preprocessing
-* Number-plate localization
-* OCR-based text extraction
-* Vehicle registration verification
-* Parking-interface prototype
+* Clinical NLP
+* Model comparison
+* Evaluation metric interpretation
+* Multi-label classification
+* Generalization and interpretability
+* Critical technical analysis
+
+**Topics**
+
+BioBERT · ClinicalBERT · BERT-based ICD Coding · Transformers · ICD Classification
+
+[View repository →](https://github.com/Meeran16/automated-icd-coding-research)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Additional Project
+
+### Smart Parking with ANPR
+
+Bachelor final-year group project implementing a smart-parking prototype based on automatic vehicle number-plate recognition.
+
+**Focus**
+
+Image Preprocessing · Number-Plate Localization · OCR · Vehicle Verification · Raspberry Pi
 
 **Stack**
 
 Python · OpenCV · Pytesseract · Raspberry Pi
 
 [View repository →](https://github.com/Meeran16/bachelor-thesis-smart-parking)
+
+---
+
+## Education
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### M.Sc. Web & Data Science
+
+**University of Koblenz · Germany**  
+2023 – Present
+
+Graduate studies focused on data science, analytics, machine learning, and web/data technologies.
+
+</td>
+
+<td width="50%" valign="top">
+
+### B.E. Computer Science & Engineering
+
+**Kumaraguru College of Technology · India**  
+2017 – 2021
+
+Undergraduate foundation in computer science, programming, software systems, databases, and applied computing.
 
 </td>
 
@@ -167,21 +243,13 @@ Python · OpenCV · Pytesseract · Raspberry Pi
 ## Core Areas
 
 **Data Analytics**  
-SQL Analysis · Data Cleaning · Data Transformation · KPI Reporting · Visualization
+Python · SQL · Data Cleaning · Data Transformation · Exploratory Analysis · Visualization
 
-**Data Workflows**  
-Structured Datasets · ETL Concepts · Validation · Data Quality · Reproducible Processing
+**Data Engineering & Quality**  
+Structured Data · SQLite · ETL Concepts · Validation · Data Quality · Reproducible Pipelines
 
 **Applied Machine Learning**  
-Model Evaluation · Computer Vision · Object Detection · Document Analysis
-
----
-
-## Portfolio Development
-
-The next additions to this portfolio will focus on practical data-oriented projects covering:
-
-`SQL & Python Analytics` · `ETL & Data Pipelines` · `Data Modelling` · `Business Intelligence`
+Model Evaluation · Computer Vision · Object Detection · Document Analysis · NLP Research
 
 ---
 
