@@ -20,6 +20,38 @@ My work focuses mainly on **Python and SQL**, with projects covering analytical 
 
 ---
 
+## Education
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### M.Sc. Web & Data Science
+
+**University of Koblenz · Germany**  
+2023 – Present
+
+Graduate studies focused on data science, analytics, machine learning, and web/data technologies.
+
+</td>
+
+<td width="50%" valign="top">
+
+### B.E. Computer Science & Engineering
+
+**Kumaraguru College of Technology · India**  
+2017 – 2021
+
+Undergraduate foundation in computer science, programming, software systems, databases, and applied computing.
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## Professional Experience
 
 <table>
@@ -205,38 +237,6 @@ Image Preprocessing · Number-Plate Localization · OCR · Vehicle Verification 
 Python · OpenCV · Pytesseract · Raspberry Pi
 
 [View repository →](https://github.com/Meeran16/bachelor-thesis-smart-parking)
-
----
-
-## Education
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### M.Sc. Web & Data Science
-
-**University of Koblenz · Germany**  
-2023 – Present
-
-Graduate studies focused on data science, analytics, machine learning, and web/data technologies.
-
-</td>
-
-<td width="50%" valign="top">
-
-### B.E. Computer Science & Engineering
-
-**Kumaraguru College of Technology · India**  
-2017 – 2021
-
-Undergraduate foundation in computer science, programming, software systems, databases, and applied computing.
-
-</td>
-
-</tr>
-</table>
 
 ---
 
