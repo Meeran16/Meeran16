@@ -16,7 +16,7 @@ Python · SQL · Data Analytics · Machine Learning
 
 M.Sc. Web & Data Science student at the University of Koblenz with professional and academic experience in data analytics, structured data processing, SQL reporting, data-quality workflows, and applied machine learning.
 
-My work focuses mainly on **Python and SQL**, with projects covering analytical pipelines, relational data modelling, visualization, document processing, machine learning, and computer vision.
+My work focuses mainly on Python and SQL, with projects covering analytical pipelines, relational data modelling, visualization, document processing, machine learning, and computer vision.
 
 ---
 
