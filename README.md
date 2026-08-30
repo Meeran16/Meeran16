@@ -4,7 +4,7 @@
 
 **M.Sc. Web & Data Science · University of Koblenz**
 
-Python · SQL · Data Analytics · Machine Learning
+**Data Analytics · SQL · Power BI · Business Intelligence**
 
 [LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [GitHub](https://github.com/Meeran16)
 
@@ -14,9 +14,11 @@ Python · SQL · Data Analytics · Machine Learning
 
 ## About
 
-M.Sc. Web & Data Science student at the University of Koblenz with professional and academic experience in data analytics, structured data processing, SQL reporting, data-quality workflows, and applied machine learning.
+M.Sc. Web & Data Science student at the University of Koblenz with professional and academic experience in data analytics, SQL reporting, business intelligence, structured data processing, data transformation, and data-quality workflows.
 
-My work focuses mainly on Python and SQL, with projects covering analytical pipelines, relational data modelling, visualization, document processing, machine learning, and computer vision.
+My current focus is on **Data Analytics and Business Intelligence**, using SQL, Power BI, Power Query, DAX, Excel, and relational data to transform raw information into structured analysis, KPIs, reports, and decision-support insights.
+
+Python and machine learning remain supporting technical skills developed through academic, research, and analytical projects.
 
 ---
 
@@ -32,7 +34,7 @@ My work focuses mainly on Python and SQL, with projects covering analytical pipe
 **University of Koblenz · Germany**  
 2023 – Present
 
-Graduate studies focused on data science, analytics, machine learning, and web/data technologies.
+Graduate studies covering data science, analytics, machine learning, databases, web technologies, and applied research.
 
 </td>
 
@@ -43,7 +45,7 @@ Graduate studies focused on data science, analytics, machine learning, and web/d
 **Kumaraguru College of Technology · India**  
 2017 – 2021
 
-Undergraduate foundation in computer science, programming, software systems, databases, and applied computing.
+Undergraduate foundation in computer science, databases, programming, software systems, and applied computing.
 
 </td>
 
@@ -68,7 +70,7 @@ Worked with structured research datasets, supporting data collection, transforma
 
 **Focus**
 
-Data Processing · Data Validation · ETL Workflows · Data Quality · FAIR Data Principles
+Data Processing · Data Transformation · Data Validation · ETL Workflows · Data Quality · FAIR Data Principles
 
 </td>
 
@@ -79,7 +81,7 @@ Data Processing · Data Validation · ETL Workflows · Data Quality · FAIR Data
 **Tata Consultancy Services (TCS)**  
 Jun 2021 – Mar 2023
 
-Worked with operational datasets, SQL-based analysis, Power BI reporting, and data-migration activities across enterprise environments.
+Worked with operational datasets, SQL-based analysis, Power BI reporting, and data-migration activities in enterprise environments.
 
 **Focus**
 
@@ -94,13 +96,16 @@ SQL · Power BI · Data Analysis · Reporting · Data Migration
 
 ## Technical Profile
 
-| Data & Programming | Analytics & Visualization | Machine Learning | Tools & Platforms |
-| ------------------ | ------------------------- | ---------------- | ----------------- |
-| Python | Power BI | PyTorch | Git |
-| SQL | Plotly | OpenCV | Linux |
-| Pandas | Streamlit | YOLO | Jupyter |
-| NumPy | Matplotlib | Transformers | VS Code |
-| SQLite | Excel | Model Evaluation | GitHub |
+| Analytics & BI | Data & Quality | Supporting Technical Skills | Research & ML Exposure |
+| --- | --- | --- | --- |
+| SQL | Data Cleaning | Python | Model Evaluation |
+| Power BI | Data Transformation | Pandas | PyTorch |
+| Power Query | SQLite | NumPy | OpenCV |
+| DAX | ETL Concepts | Git / GitHub | YOLO |
+| Excel | Data Validation | Linux | Transformers |
+| KPI Analysis | Data Quality | Jupyter | Computer Vision |
+| Reporting | Structured Data | VS Code | NLP Research |
+| Data Visualization | Relational Data | Matplotlib | Document AI |
 
 ---
 
@@ -108,6 +113,32 @@ SQL · Power BI · Data Analysis · Reporting · Data Migration
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+### Germany Manufacturing Performance Analytics
+
+Business-oriented analysis of German manufacturing performance using official **Destatis GENESIS-Online** data covering all 16 German federal states from 2019 to 2025.
+
+**Focus**
+
+* Power Query data preparation
+* SQL analytical queries
+* SQLite database analysis
+* Power BI dashboard development
+* DAX KPI measures
+* Federal-state performance comparison
+* Turnover and employment trend analysis
+* Foreign-turnover analysis
+* Data validation and documentation
+
+**Stack**
+
+SQL · SQLite · Power BI · Power Query · DAX · Excel
+
+[View repository →](https://github.com/Meeran16/germany-manufacturing-performance-analytics)
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -120,13 +151,14 @@ End-to-end football analytics project covering match, team, and player analysis 
 * Structured match-data processing
 * SQLite relational data modelling
 * SQL analytical queries
-* Pandas-based analysis
 * Team and player performance analysis
-* Data validation and reproducibility
+* Data validation
+* Analytical visualization
+* Reproducible workflow
 
 **Stack**
 
-Python · SQL · SQLite · Pandas · Matplotlib
+SQL · SQLite · Python · Pandas · Matplotlib
 
 [Analytics Repository →](https://github.com/Meeran16/champions-league-2025-26-analytics)
 
@@ -134,11 +166,15 @@ Python · SQL · SQLite · Pandas · Matplotlib
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### Legal Document Processing & Quality Analytics
 
-Lightweight data-processing pipeline for analysing text quality in regulatory PDF documents.
+Data-processing and quality-analysis pipeline for regulatory PDF documents.
 
 The project reconstructs and extends work from a Master's Research Lab project while keeping the portfolio implementation reproducible and lightweight.
 
@@ -150,18 +186,15 @@ The project reconstructs and extends work from a Master's Research Lab project w
 * SQLite storage
 * SQL analysis
 * Automated quality reporting
+* Structured analytical outputs
 
 **Stack**
 
-Python · SQL · SQLite · Pandas · PyMuPDF · Matplotlib
+SQL · SQLite · Python · Pandas · PyMuPDF · Matplotlib
 
 [View repository →](https://github.com/Meeran16/legal-document-processing-analytics)
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -174,9 +207,10 @@ Research project evaluating table-detection and table-structure-recognition appr
 **Focus**
 
 * Dataset preparation and annotation
-* Model-specific data pipelines
-* Fine-tuning and evaluation
+* Structured experimental data pipelines
+* Model evaluation
 * Quantitative metric analysis
+* Comparative performance analysis
 * Qualitative error analysis
 * Reproducible experimental workflows
 
@@ -192,6 +226,16 @@ Python · PyTorch · OpenCV · Hugging Face Transformers
 
 </td>
 
+</tr>
+</table>
+
+---
+
+## Additional Projects & Research
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
 ### Automated ICD Coding Research
@@ -202,11 +246,11 @@ The project focuses on analysing published methods and reported experimental evi
 
 **Focus**
 
-* Clinical NLP
 * Model comparison
 * Evaluation metric interpretation
 * Multi-label classification
-* Generalization and interpretability
+* Generalization
+* Interpretability
 * Critical technical analysis
 
 **Topics**
@@ -217,12 +261,7 @@ BioBERT · ClinicalBERT · BERT-based ICD Coding · Transformers · ICD Classifi
 
 </td>
 
-</tr>
-</table>
-
----
-
-## Additional Project
+<td width="50%" valign="top">
 
 ### Smart Parking with ANPR
 
@@ -230,7 +269,11 @@ Bachelor final-year group project implementing a smart-parking prototype based o
 
 **Focus**
 
-Image Preprocessing · Number-Plate Localization · OCR · Vehicle Verification · Raspberry Pi
+* Image preprocessing
+* Number-plate localization
+* OCR
+* Vehicle verification
+* Raspberry Pi deployment
 
 **Stack**
 
@@ -238,24 +281,48 @@ Python · OpenCV · Pytesseract · Raspberry Pi
 
 [View repository →](https://github.com/Meeran16/bachelor-thesis-smart-parking)
 
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## Core Areas
 
-**Data Analytics**  
-Python · SQL · Data Cleaning · Data Transformation · Exploratory Analysis · Visualization
+### Data Analytics & Business Intelligence
 
-**Data Engineering & Quality**  
-Structured Data · SQLite · ETL Concepts · Validation · Data Quality · Reproducible Pipelines
+SQL · Power BI · Power Query · DAX · Excel · KPI Analysis · Reporting · Data Visualization
 
-**Applied Machine Learning**  
-Model Evaluation · Computer Vision · Object Detection · Document Analysis · NLP Research
+### Data Preparation & Quality
+
+Data Cleaning · Data Transformation · SQLite · Structured Data · ETL Concepts · Data Validation · Data Quality
+
+### Supporting Technical & Research Skills
+
+Python · Pandas · Git · Machine Learning Evaluation · Computer Vision · Document Analysis · NLP Research
+
+---
+
+## Current Portfolio Focus
+
+My portfolio is currently focused on practical data-analysis workflows that demonstrate:
+
+* working with real-world and official datasets;
+* cleaning and transforming raw data;
+* querying structured data with SQL;
+* developing KPIs and analytical metrics;
+* building Power BI dashboards and reports;
+* validating data quality and analytical outputs;
+* communicating findings through clear visualizations and documentation.
 
 ---
 
 <div align="center">
 
 **Meeran Mydeen Syed Ibrahim**
+
+Data Analytics · SQL · Power BI · Business Intelligence
 
 [LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [GitHub](https://github.com/Meeran16)
 
