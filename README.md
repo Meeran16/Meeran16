@@ -4,7 +4,7 @@
 
 **M.Sc. Web & Data Science · University of Koblenz**
 
-**Data Analytics · SQL · Power BI · Business Intelligence**
+**Data Analytics · SQL · Power BI · Data Quality**
 
 [LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [GitHub](https://github.com/Meeran16)
 
@@ -14,11 +14,11 @@
 
 ## About
 
-M.Sc. Web & Data Science student at the University of Koblenz with professional and academic experience in data analytics, SQL reporting, business intelligence, structured data processing, data transformation, and data-quality workflows.
+M.Sc. Web & Data Science at the University of Koblenz with professional experience in data-focused roles at the Institute for Applied Materials (IAM) at KIT and Tata Consultancy Services (TCS).
 
-My current focus is on **Data Analytics and Business Intelligence**, using SQL, Power BI, Power Query, DAX, Excel, and relational data to transform raw information into structured analysis, KPIs, reports, and decision-support insights.
+My work focuses on data analysis, SQL, data preparation, reporting, visualization, and data-quality workflows across research, enterprise, and public datasets.
 
-Python and machine learning remain supporting technical skills developed through academic, research, and analytical projects.
+Python, machine learning, computer vision, and document AI remain supporting technical areas developed through academic research and analytical projects.
 
 ---
 
@@ -32,9 +32,9 @@ Python and machine learning remain supporting technical skills developed through
 ### M.Sc. Web & Data Science
 
 **University of Koblenz · Germany**  
-2023 – Present
+2023 – 2026
 
-Graduate studies covering data science, analytics, machine learning, databases, web technologies, and applied research.
+Graduate studies covering data analytics, data management, databases, machine learning, and applied research.
 
 </td>
 
@@ -61,12 +61,12 @@ Undergraduate foundation in computer science, databases, programming, software s
 
 <td width="50%" valign="top">
 
-### Working Student · Data Analyst
+### Working Student · Data & Analytics
 
-**Karlsruhe Institute of Technology (KIT)**  
+**Institute for Applied Materials (IAM), Karlsruhe Institute of Technology (KIT)**  
 Jun 2025 – Jan 2026
 
-Worked with structured research datasets, supporting data collection, transformation, validation, documentation, and data-quality workflows.
+Worked with structured research datasets, supporting data preparation, transformation, validation, documentation, and data-quality workflows.
 
 **Focus**
 
@@ -96,16 +96,29 @@ SQL · Power BI · Data Analysis · Reporting · Data Migration
 
 ## Technical Profile
 
-| Analytics & BI | Data & Quality | Supporting Technical Skills | Research & ML Exposure |
+| Data Analytics | BI & Visualization | Data & Quality | Supporting Technical Skills |
 | --- | --- | --- | --- |
-| SQL | Data Cleaning | Python | Model Evaluation |
-| Power BI | Data Transformation | Pandas | PyTorch |
-| Power Query | SQLite | NumPy | OpenCV |
-| DAX | ETL Concepts | Git / GitHub | YOLO |
-| Excel | Data Validation | Linux | Transformers |
-| KPI Analysis | Data Quality | Jupyter | Computer Vision |
-| Reporting | Structured Data | VS Code | NLP Research |
-| Data Visualization | Relational Data | Matplotlib | Document AI |
+| SQL | Power BI | Data Cleaning | Python |
+| Exploratory Data Analysis | Power Query | Data Transformation | Pandas |
+| KPI Analysis | DAX | Data Validation | R |
+| Trend Analysis | Excel | Data Quality | Git / GitHub |
+| Reporting | Dashboard Development | SQLite | Jupyter Notebook |
+| Data Visualization | Business Intelligence | Relational Data | VS Code |
+|  |  | ETL Concepts |  |
+
+### Machine Learning & Research Exposure
+
+Machine Learning · Deep Learning · PyTorch · Computer Vision · OpenCV · OCR · YOLO · Transformers · Document AI
+
+---
+
+## Certifications
+
+| Credential | Issuer | Year |
+| --- | --- | ---: |
+| [AI/BI for Data Analysts ↗](https://credentials.databricks.com/64c7bcb6-461b-42a0-9f56-585aa6f455b1#acc.GTQYDPWe) | Databricks | 2026 |
+| [Databricks Accredited Lakehouse Fundamentals ↗](https://credentials.databricks.com/a2f50f99-e1e9-44ca-bcb3-da52a590c9d1#acc.bGZIsegq) | Databricks | 2023 |
+| [Data Analytics Essentials ↗](https://www.netacad.com/recognitions/verify/f14127f5-6d6a-44f5-a3d6-5d4410dab8c0) | Cisco Networking Academy | 2026 |
 
 ---
 
@@ -290,31 +303,21 @@ Python · OpenCV · Pytesseract · Raspberry Pi
 
 ## Core Areas
 
-### Data Analytics & Business Intelligence
+### Data Analytics
 
-SQL · Power BI · Power Query · DAX · Excel · KPI Analysis · Reporting · Data Visualization
+SQL · Exploratory Data Analysis · Data Cleaning · Data Transformation · KPI Analysis · Trend Analysis · Reporting
+
+### BI & Visualization
+
+Power BI · Power Query · DAX · Excel · Dashboard Development · Data Visualization
 
 ### Data Preparation & Quality
 
-Data Cleaning · Data Transformation · SQLite · Structured Data · ETL Concepts · Data Validation · Data Quality
+SQLite · Relational Data · ETL Concepts · Data Validation · Data Quality · Data Management
 
 ### Supporting Technical & Research Skills
 
-Python · Pandas · Git · Machine Learning Evaluation · Computer Vision · Document Analysis · NLP Research
-
----
-
-## Current Portfolio Focus
-
-My portfolio is currently focused on practical data-analysis workflows that demonstrate:
-
-* working with real-world and official datasets;
-* cleaning and transforming raw data;
-* querying structured data with SQL;
-* developing KPIs and analytical metrics;
-* building Power BI dashboards and reports;
-* validating data quality and analytical outputs;
-* communicating findings through clear visualizations and documentation.
+Python · Pandas · R · Git · Machine Learning · Computer Vision · Document Analysis · NLP Research
 
 ---
 
@@ -322,7 +325,7 @@ My portfolio is currently focused on practical data-analysis workflows that demo
 
 **Meeran Mydeen Syed Ibrahim**
 
-Data Analytics · SQL · Power BI · Business Intelligence
+Data Analytics · SQL · Power BI · Data Quality
 
 [LinkedIn](https://www.linkedin.com/in/meeran-mydeen) · [GitHub](https://github.com/Meeran16)
 
