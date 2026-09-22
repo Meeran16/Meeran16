@@ -121,7 +121,7 @@ Machine Learning · Deep Learning · PyTorch · Computer Vision · OpenCV · OCR
 | [AI/BI for Data Analysts ↗](https://credentials.databricks.com/64c7bcb6-461b-42a0-9f56-585aa6f455b1#acc.GTQYDPWe) | Databricks | 2026 |
 | [SAS Visual Analytics 1 for SAS Viya: Basics ↗](https://www.credly.com/badges/195a16ae-559e-4d73-89fa-6fea8de7b808/public_url) | SAS | 2026 |
 | [Databricks Accredited Lakehouse Fundamentals ↗](https://credentials.databricks.com/a2f50f99-e1e9-44ca-bcb3-da52a590c9d1#acc.bGZIsegq) | Databricks | 2023 |
-| Transform Business Workflows with Generative AI | Microsoft Learn | 2026 |
+| [Transform Business Workflows with Generative AI ↗](https://learn.microsoft.com/en-us/users/meeranmydeensyedibrahim-1186/achievements/4cags7ak) | Microsoft Learn | 2026 |
 
 ---
 
